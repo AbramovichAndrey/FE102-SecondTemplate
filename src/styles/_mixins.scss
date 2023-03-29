@@ -1,0 +1,58 @@
+@mixin H1 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    text-align: center;
+}
+@mixin H2 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+@mixin H3 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+}
+@mixin H4 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 1.125rem;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    text-align: center;
+}
+@mixin H5 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+@mixin H6 {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+}
